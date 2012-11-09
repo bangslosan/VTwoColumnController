@@ -2,7 +2,7 @@
 
 @class VPost;
 
-@interface VExampleView : UIView
+@interface VPostView : UIView
 
 @property(strong, nonatomic) VPost *post;
 

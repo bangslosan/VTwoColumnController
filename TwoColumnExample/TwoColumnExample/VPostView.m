@@ -1,10 +1,10 @@
 #import <QuartzCore/QuartzCore.h>
-#import "VExampleView.h"
+#import "VPostView.h"
 #import "VPost.h"
 
 #define PADDING 12.f
 
-@implementation VExampleView
+@implementation VPostView
 
 @synthesize post = post_;
 

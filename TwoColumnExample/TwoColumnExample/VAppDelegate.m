@@ -1,5 +1,5 @@
 #import "VAppDelegate.h"
-#import "VTwoColumnViewController.h"
+#import "FeedViewController.h"
 
 @implementation VAppDelegate
 
@@ -8,7 +8,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.backgroundColor = [UIColor whiteColor];
     
-    VTwoColumnViewController *controller = [[VTwoColumnViewController alloc] init];
+    FeedViewController *controller = [[FeedViewController alloc] init];
     [self.window setRootViewController:controller];
     
     [self.window makeKeyAndVisible];
