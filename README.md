@@ -1,6 +1,6 @@
 # Two column iOS UI
 
-[Two Column UI](http://i.imgur.com/fscYS.png)
+[![](http://i.imgur.com/OFZPC.png)](http://i.imgur.com/OFZPC.png)
 
 Personally I first saw this in the Pinterest app.
 
@@ -10,10 +10,15 @@ it into another app. Perhaps it can be made to be re-usable...
 # Stuff this demo does
 
 * Loads more when you reach the bottom
-* Adds a custom view for each image you see with a shadow
+* Adds a custom view for each model's image with a shadow
 
 # TODO
 
 * Orientation/other device support
 * Make this reusable via CocoaPods
+* Performance optimizations
 * Other awesome stuff
+
+# License
+
+MIT 
