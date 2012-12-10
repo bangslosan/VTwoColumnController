@@ -4,9 +4,6 @@
 
 Personally I first saw this in the Pinterest app.
 
-This is some example code I threw together to check out how this would work before adding
-it into another app. Perhaps it can be made to be re-usable...
-
 # How to use this code
 
 1. Create a subclass of VTwoColumnViewController
