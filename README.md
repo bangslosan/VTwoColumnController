@@ -1,3 +1,7 @@
+# Don't use this!
+
+Unless your app is extremely simple/temporary, you should probably be using @chiahsien's wonderful [UICollectionViewWaterfallLayout](https://github.com/chiahsien/UICollectionViewWaterfallLayout)
+
 # Two column iOS UI
 
 [![](http://i.imgur.com/OFZPC.png)](http://i.imgur.com/OFZPC.png)
